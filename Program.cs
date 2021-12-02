@@ -6,7 +6,7 @@ namespace Gradconsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name = "Gradimir";
             Console.WriteLine("Hello i am Grad!");
         }
     }
